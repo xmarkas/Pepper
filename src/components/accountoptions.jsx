@@ -15,8 +15,8 @@ function mapDispatchToProps(dispatch) {
 
 class AccountOptions extends Component {
   state = {
-    username: "Mark121951654970693",
-    password: "mark@",
+    username: "", // no save state for demo
+    password: "", // no save state for demo
     displayName: ""
   };
 
