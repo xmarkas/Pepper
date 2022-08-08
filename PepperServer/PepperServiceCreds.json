@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "pepper-web-phone",
+    "private_key_id": "adb8764642abefe3b92589409f00a63c3c7a82ea",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDYsttWWJ0tA/h9\nLaEqQFv+jq0I0PYpQAtIarKIW3A55O0n0TTZpJ3Crj5ByXPHqgkn/Qt/OKaaKUvb\nt6y7/1fv/oSWh//PWV7Sw7rsKkPa+EFKaT2kwp6Vx8RVksQ/L6ERixBV1dWG1GX7\nRkdhF/T1R+PeeGK99k+YYcsk+F5svdndS7gPKDmGIAQe4xA1PHqt1Su7DGUg+xRm\nJ6HmPIyyTYx5PYRg2dvdqUcTxoQkiyt5unmXpYOqJNedXPFIq2WgVVvs9GU3i2ZK\naSyuSEplJjykVVdHN2tCrXIRCz19yMCMYNgnyTdBHJAmnjYi9Z+wGLyWx2sioxoQ\nPJAX7IQbAgMBAAECggEAHzcQem00YvYl9t46T4xK1C34RgNX2lRT68AW7KaDUYul\nD+3Gd62LXi5cYHyk9XeMbxq368Ec2qslNsbMFp6vK66Vqdt4YYWFr8WrKPbjpGjL\neu0TCKdSUdAfe5YzN8jkIlNObJbrdcslz57tjFJ3oleTPwpHawbOq2w256HxdCdX\nG62LF4mlDX3dlCdoJ/tEJxW8QQ1xycm45uzQ+7Tndrk4Ons1/s494EOzmb3coPwJ\n+Lh0ZUXh0e+FFNGZQxO0IpkaV/Q176pqXch2Miu+7F9WnvR+X+z/OTq0l3CaZeIS\nSLNCb+yDEZIuMYP/LZGDDYSnome3RQTa1C2Ik9gZmQKBgQDvathqY2NOWu/2yBoq\nQu5tH7KEXm1pIulqTMoRwMqHje+PWXugLWX8OQOuUWQjCKwPYhUMvvzJZcbcaPAT\nqh851kpYRGdpskh/6uvUePOgta2Z0BBlPiUlINI8st+D9uYCeiudg1IAdZCwp3d5\n4/3xtKpzVE/QyhPIaYNvrdi42QKBgQDntS6G313pVafMvssPJ3Tr/Pdn+ygJ/gA8\niqRGD7pBdfiuIE0nB+jWuK8zKo5aeCWWqy3qn5Hg+1hFy4fwpp2n6PowjKVIUeDU\nY4/WzSlapi0uvvqtEKP79ea2BYF8vnoQxXAcQKz81+eywvPmHPiOwYC4w5OHZfBV\nu0Smuq2sEwKBgAH5A2d9Aih3H1sNMwn+GzDS/gmRLZ2cKAg0McYLrJ+JT9wChL5B\nIYH+hkU9bnHLdH9782hzemm+aPEP/EptMGytk1c+2QtJ6McFDIRnqro8RP3rdPcg\nl/XCW3kckDLqKeMDVrCpkFdooJSUDKv4cPM45d6lZzL1N0yDcg3NhOehAoGAXNX5\nCEzigaSyEJS5Ix8593tpXR4CEs7UJW2fF/shMy0jMBD9GJBQuAdTGvsIAjN1TALV\n6NV6S1wpJ/2+P6tiK25rH5yadHlpzW7+qJ+W3B0MqVgXc9PhAAisIW3fTa27lpCk\ntI0tQjj3OmZl9mLRK9FX0694op0zSAY6IVtWTkUCgYB2zSaS8zZXYgYK8oTZrrU9\nXaOXIl0ZBHt8JsQgq6qtmC3hFrXDxnSX3CwqqMG+WGCzjXlEmcTugADwPvmsyFot\nLBks6qZpDvBgjyryANMang8sh0RJafPPl8+ZpH7cFzLvRwoifeR+pALnSgEk3pqf\nILtfKIwBpGesIj8FdFMlwg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "pepper-sa@pepper-web-phone.iam.gserviceaccount.com",
+    "client_id": "103775627795097665660",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pepper-sa%40pepper-web-phone.iam.gserviceaccount.com"
+  }
