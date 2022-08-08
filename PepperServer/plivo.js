@@ -1,8 +1,8 @@
 
 // PLIVO
 var plivo = require('plivo');
-let PhoneClient = new plivo.Client('MAOTE4ZDVMN2IWMMJKZJ', 'NGI5YjY0Y2EyMDY5ZGVjMDA4Nzc2Yjk1YWNlZDI5');
-let PhloClient = new plivo.PhloClient('MAOTE4ZDVMN2IWMMJKZJ', 'NGI5YjY0Y2EyMDY5ZGVjMDA4Nzc2Yjk1YWNlZDI5');
+let PhoneClient = new plivo.Client(null, null);
+let PhloClient = new plivo.PhloClient(null, null);
 
 // Methods for export
 let methods = {};
